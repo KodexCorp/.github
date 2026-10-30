@@ -2,7 +2,7 @@
 
 <br>
 
-# `kodex global`
+# `kodexglobal`
 
 <sub>kodexglobal.cc</sub>
 
